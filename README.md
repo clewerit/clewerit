@@ -31,7 +31,7 @@ Especialistas en diseño web 💻, diseño gráfico 🎨, posicionamiento SEO �
 ---
 
 
-### Encuentranos en redes 🌍
+### Encuéntranos en redes 🌍
 [<img align="left" alt="Rebrandea" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rebrandea Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Rebrandea Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]

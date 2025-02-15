@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/clewerit/clewerit/assets/171825955/4fe78e43-56c0-4a29-adaf-93363a9fdb0c" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 
 Especialistas en diseño web 💻, diseño gráfico 🎨, posicionamiento SEO 📈 y redes sociales 📲. Ayudamos a pymes y autónomos a construir marcas sólidas y potenciar su visibilidad online. 🚀 Confía en nosotros para llevar tu proyecto al siguiente nivel con estrategias personalizadas y resultados medibles. ¡Hablemos! 💬
  
